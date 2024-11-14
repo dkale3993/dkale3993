@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dkale3993
 - 👀 I’m interested in cloud computing and data analytics.
 - 🌱 I’m currently learning AWS and Python.
-- 💞️ I’m looking to collaborate on beginner level Python projects.
+- 💞️ I’m looking to collaborate on intermediate level Python projects.
 - 📫 How to reach me : email me
 
 <!---
